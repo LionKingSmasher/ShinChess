@@ -1,0 +1,1 @@
+gcc main.c system.c -o chess
